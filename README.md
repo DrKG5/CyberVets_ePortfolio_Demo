@@ -15,8 +15,8 @@ Writing a reflective journal is a practice that has a huge WIIFM factor! The ben
 If you have questions or concerns, reach out to anyone on the CyberVets Admin Team!
 
 **Tips:**
-USE THIS PAGE AS YOUR ELEVATOR PITCH.
-List how your wiki is organized. 
+USE THIS PAGE AS YOUR ELEVATOR PITCH. (Basically, introduce yourself.)
+Also, list how your wiki is organized. 
 For example, the following sections can be found under 
 ~"**Projects**": Technical Skills, Acheivements, Civilian Workplace Competencies, and Credentials. 
 ~"**Wiki**": Reflective Journal, Employment Prep and Resume
