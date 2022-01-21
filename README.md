@@ -18,5 +18,5 @@ Tips:
 USE THIS PAGE AS YOUR ELEVATOR PITCH.
 List how your wiki is organized. 
 For example, the following sections can be found under 
-~"Projects": Technical Skills, Acheivements, Civilian Workplace Competencies, and Credentials. 
-~"Wiki": Reflective Journal, Employment Prep and Resume
+~"**Projects**": Technical Skills, Acheivements, Civilian Workplace Competencies, and Credentials. 
+~"**Wiki**": Reflective Journal, Employment Prep and Resume
